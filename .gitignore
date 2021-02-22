@@ -1,0 +1,19 @@
+# Folders
+.vs/
+.vscode
+Bin/
+Build/
+Saved/
+Release/
+Binaries/
+Assets/
+Artifacts/
+Intermediate/
+LocalDerivedDataCache/
+# Files
+*.VC.db
+*.VC.opendb
+*.sln
+*.ldb
+*.code-workspace
+
